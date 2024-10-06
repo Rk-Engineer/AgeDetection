@@ -36,7 +36,7 @@ The Age Detection System is a Java-based application that uses the OpenCV librar
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/age-detection.git
+   git clone https://github.com/Rk-Engineer/AgeDetection.git
    ```
 2. Navigate to the project directory:
    ```bash
