@@ -17,7 +17,7 @@ public class AgeDetection {
         System.loadLibrary(Core.NATIVE_LIBRARY_NAME);
 
         // Load the image
-        String imagePath = "src/main/resources/image.jpg";
+        String imagePath = "src/main/resources/1image.jpg";
         Mat image = Imgcodecs.imread(imagePath);
         if (image.empty()) {
             System.out.println("Could not open or find the image!");
